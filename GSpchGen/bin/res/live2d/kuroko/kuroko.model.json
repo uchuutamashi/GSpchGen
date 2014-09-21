@@ -1,0 +1,33 @@
+﻿{
+	"type":"Live2D Model Setting",
+	"name":"kuroko",
+	"model":"kuroko_model.moc",
+	"textures":
+	[
+		"kuroko_model_texture_0.png",
+		"kuroko_model_texture_1.png"
+	],
+	"physics":"kuroko.physics.json",
+	"layout":
+	{
+		"center_x":0,
+		"y":1.5,
+		"height":3
+	},
+	"hit_areas":
+	[
+		{"name":"head", "id":"D_FACE.00"},
+		{"name":"body", "id":"C_VEST"}
+	],
+	"motions":
+	{
+		"idle":
+		[
+			{"file":"kuroko_model_motion_0.mtn" ,"fade_in":2000, "fade_out":2000}
+		],
+		"tap_body":
+		[
+			{"file":"kuroko_model_motion_1.mtn" }
+		]
+	}
+}

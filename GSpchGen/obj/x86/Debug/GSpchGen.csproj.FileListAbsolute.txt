@@ -1,0 +1,8 @@
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\bin\Debug\GSpchGen.exe.config
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\bin\Debug\GSpchGen.exe
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\bin\Debug\GSpchGen.pdb
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\bin\Debug\NAudio.dll
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\obj\x86\Debug\GSpchGen.exe
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\obj\x86\Debug\GSpchGen.pdb
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\bin\Debug\NAudio.xml
+C:\Users\ytc\Documents\GitHub\GSpchGen\GSpchGen\obj\x86\Debug\GSpchGen.csprojResolveAssemblyReference.cache

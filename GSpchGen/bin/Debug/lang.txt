@@ -1,0 +1,1 @@
+[[["我很高兴","je suis content","Wǒ hěn gāoxìng",""]],,"fr",,[["我很高兴",[1],false,false,1000,0,3,0]],[["je suis content",1,[["我很高兴",1000,false,false],["很高兴",0,false,false],["我快乐",0,false,false],["我很开心",0,false,false]],[[0,15]],"je suis content"]],,,[["fr"]],3]
